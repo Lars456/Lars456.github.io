@@ -1,5 +1,5 @@
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-<path id="square" d="M 50 50 H 150 V 150 H 50 Z" fill="none" />
+<path id="square" d="M 25 25 H 75 V 75 H 25 Z" fill="none" />
     
 <circle r="5" fill="red">
     <animateMotion repeatCount="indefinite" dur="2s">
