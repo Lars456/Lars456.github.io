@@ -1,0 +1,10 @@
+<svg width"200" height="200" xmlns="http://www.w3.org/2000/svg">
+<path id="square" d="M 50 50 H 150 V 150 H 50 Z" fill="none"/>
+
+<circle r="5" fill="blue"/>
+  <animateMotion repeatcount="indefinite" dur="3s">
+    <mpath href="#square "/>
+</animateMotion>
+</circle>
+</svg>
+  
